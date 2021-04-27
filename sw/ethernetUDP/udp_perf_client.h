@@ -90,7 +90,7 @@ struct perf_stats {
 #define INTERIM_REPORT_INTERVAL 5
 
 /* Client port to connect */
-#define UDP_CONN_PORT 5063
+#define UDP_CONN_PORT 25346
 
 /* time in seconds to transmit packets */
 #define UDP_TIME_INTERVAL 160
